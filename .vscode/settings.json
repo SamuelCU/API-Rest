@@ -1,0 +1,10 @@
+{
+    "background.fullscreen": {
+        "images": ["https://png.pngtree.com/thumb_back/fw800/background/20230615/pngtree-hacker-hacked-with-image-of-dark-man-hooded-image_2912759.jpg"], // urls of your images
+        "opacity": 0.91, // 0.85 ~ 0.95 recommended
+        "size": "cover", // also css, cover to self-adaption (recommended)，or contain、200px 200px
+        "position": "center", // alias to background-position, default center
+        "interval": 0 // seconds of interval for carousel, default 0 to disabled.
+  },
+  "liveServer.settings.port": 5501
+}
